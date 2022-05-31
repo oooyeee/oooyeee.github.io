@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+This is my statically generated github website  
+
+Visit it on [oooyeee.github.io](https://oooyeee.github.io)
 
 <!--
 **oooyeee/oooyeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
