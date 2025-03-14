@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is my statically generated github website!!
+This is my statically generated github website.
 
 Visit it on [oooyeee.github.io](https://oooyeee.github.io)
 
